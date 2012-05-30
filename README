@@ -1,0 +1,22 @@
+Este é um projeto de faculdade para a cadeira de Técnicas de Programação para Engenharia 2 feito com um colega.
+Ele consiste em um programa que edita árvores binárias de busca.
+
+Objetivos:
+Desenvolver uma aplicação gráfica em JAVA demonstrando o funcionamento e montagem de uma árvore binária de busca
+que seja amigável com o usuário.
+
+Descrição do programa:
+O programa será montado em uma tela principal, onde toda a estrutura da árvore será desenhada. Junto a isso haverá
+uma caixa de texto que dará informações sobre a adição dos nodos, seleção e a ordem de nodos quando a árvore for
+percorrida.
+Vários botões estarão colocados no lado esquerdo da janela, com diversas opções:
+- Adicionar nodo: gera um popup perguntando o caractere que será o nome do nodo (ele tem importância na ordem da 
+montagem da árvore);
+- Remover nodo: o usuário seleciona com o mouse o nodo desejado e clica neste botão para ser excluído;
+- Remover tudo: a árvore é completamente zerada;
+- Pesquisar nodo: o usuário digita o caractere que deseja e uma busca animada é iniciada;
+- Percorrer árvore: um popup é gerado com uma caixa de seleção que o usuário selecionará o modo como deseja que a
+árvore seja percorrida. Pré-Ordem, Pós-Ordem e Em Ordem;
+- Salvar árvore: o modelo de árvore que o usuário montou é salvo no computador em um arquivo .tree;
+- Carregar árvore: carregará um arquivo .tree do computador;
+- Ajuda: gera uma janela com informações teóricas de árvores binárias, como utilizar o programa e créditos.
